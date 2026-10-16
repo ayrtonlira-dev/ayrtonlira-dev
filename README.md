@@ -1,17 +1,17 @@
-# Olá, eu sou o Ayrton 👋
+# Olá, eu sou o Ayrton 
 
 **Desenvolvedor Front-end em formação · React · Recife, PE**
 Estudante de Análise e Desenvolvimento de Sistemas (UNINASSAU, conclusão em 2027) e **em busca de estágio em desenvolvimento front-end**.
 
 Já entreguei um site para cliente real como freelance e construí sozinho o front-end de uma rede social de jogos em React integrada a uma API REST. Gosto de interfaces responsivas, acessíveis e bem conectadas ao back-end.
 
-🌐 **Portfólio:** [ayrtonlira-dev.github.io/meu-perfil](https://ayrtonlira-dev.github.io/meu-perfil/)
-💼 **LinkedIn:** [linkedin.com/in/ayrton-lira-658b873b9](https://www.linkedin.com/in/ayrton-lira-658b873b9/)
-📫 **E-mail:** ayrtonslira@gmail.com
+ **Portfólio:** [ayrtonlira-dev.github.io/meu-perfil](https://ayrtonlira-dev.github.io/meu-perfil/)
+ **LinkedIn:** [linkedin.com/in/ayrton-lira-658b873b9](https://www.linkedin.com/in/ayrton-lira-658b873b9/)
+ **E-mail:** ayrtonslira@gmail.com
 
 ---
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
@@ -19,7 +19,7 @@ Já entreguei um site para cliente real como freelance e construí sozinho o fro
 | **[Portfólio](https://github.com/ayrtonlira-dev/meu-perfil)** | Meu site pessoal: filtro de projetos, galerias, tema claro/escuro e navegação por teclado. Deploy automático com GitHub Actions. | React · Vite · GitHub Pages |
 | **[OOP Market Simulator](https://github.com/ayrtonlira-dev/oop-market-simulator)** | App desktop de mercado com estoque e carrinho, para praticar orientação a objetos. | Python · Tkinter |
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 **Uso no dia a dia**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -34,8 +34,8 @@ Já entreguei um site para cliente real como freelance e construí sozinho o fro
 **Estudando**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 🌱 Agora estou
+##  No momento:
 
 - Aprofundando React, acessibilidade e integração com APIs
 - Estudando Python e orientação a objetos
-- Aberto a **estágio em front-end** (Recife, híbrido ou remoto)
+- Aberto a **estágio em front-end** (Recife, presencial, híbrido ou remoto)
