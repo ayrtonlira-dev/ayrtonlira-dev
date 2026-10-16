@@ -1,7 +1,7 @@
 # Olá, eu sou o Ayrton 
 
-**Desenvolvedor Front-end em formação · React · Recife, PE**
-Estudante de Análise e Desenvolvimento de Sistemas (UNINASSAU, conclusão em 2027) e **em busca de estágio em desenvolvimento front-end**.
+**Desenvolvedor FullStack em formação · React · Recife, PE**
+Estudante de Análise e Desenvolvimento de Sistemas (UNINASSAU, conclusão em 2027) e **em busca de estágio**.
 
 Já entreguei um site para cliente real como freelance e construí sozinho o front-end de uma rede social de jogos em React integrada a uma API REST. Gosto de interfaces responsivas, acessíveis e bem conectadas ao back-end.
 
@@ -38,4 +38,4 @@ Já entreguei um site para cliente real como freelance e construí sozinho o fro
 
 - Aprofundando React, acessibilidade e integração com APIs
 - Estudando Python e orientação a objetos
-- Aberto a **estágio em front-end** (Recife, presencial, híbrido ou remoto)
+- Aberto a **estágio em desenvolvimento** (Recife, presencial, híbrido ou remoto)
